@@ -1,4 +1,4 @@
-module moul.io/number-to-words
+module github.com/maitres/number-to-words
 
 go 1.12
 

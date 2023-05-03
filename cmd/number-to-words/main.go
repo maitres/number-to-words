@@ -9,7 +9,8 @@ import (
 	"strings"
 
 	"github.com/urfave/cli"
-	ntw "moul.io/number-to-words"
+
+	ntw "github.com/maitres/number-to-words"
 )
 
 func main() {

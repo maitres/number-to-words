@@ -252,7 +252,7 @@ $ for i in {1..20}; do ./number-to-words -l roman -u $i; done
 ## API usage
 
 ```go
-import ntw "moul.io/number-to-words"
+import ntw "github.com/maitres/number-to-words"
 
 fmt.Println(ntw.IntegerToFrFr(42)) // french
 // Outputs: quarante-deux
